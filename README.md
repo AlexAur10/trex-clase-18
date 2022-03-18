@@ -1,2 +1,1 @@
-# trex-clase-18
-juego Trex
+# C18_LP_AA1
